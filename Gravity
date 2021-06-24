@@ -1,0 +1,4 @@
+#!/usr/bin/sh
+
+pip3 install --upgrade gravity_interface_duo
+python3 /home/qodex/cm_launcher_linux/main.py 172.16.1.49 
